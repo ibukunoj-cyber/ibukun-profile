@@ -1,6 +1,9 @@
-## 👏 Hi, I'm *your name here*
+## 👏 Hi, I'm Ibukun Ojediran
 ##  About Me
-_Share some information about yourself, including your class, major, jobs, and extra-curriculars._
+First year at Utsa classified as a Junior
+Studying Cybersecuirty
+Learning Github and Git
+Interested in Network Security
 ## ⚒️ Skills
 ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
@@ -10,7 +13,7 @@ _Share some information about yourself, including your class, major, jobs, and e
 ![Cybersecurity](https://img.shields.io/badge/Cybersecurity-0052CC?logo=protonvpn&logoColor=white)
 ![Open Source](https://img.shields.io/badge/Open%20Source-3DA639?logo=opensourceinitiative&logoColor=white)
 ## 🔗 Links
-[![GitHub](https://img.shields.io/badge/GitHub-100000?logo=github&logoColor=white)](https://github.com/<your-handle>)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://linkedin.com/in/<your-handle>)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?logo=github&logoColor=white)](https://github.com/ibukunoj-cyber)
+[![LinkedIn](https://www.linkedin.com/in/ibukun-ojediran-298a8b271utm_source=share_via&utm_content=profile&utm_medium=member_ios)
 
-_"Your sample quote here!"_
+_"I can make it happen "_
