@@ -14,6 +14,6 @@ Interested in Network Security
 ![Open Source](https://img.shields.io/badge/Open%20Source-3DA639?logo=opensourceinitiative&logoColor=white)
 ## 🔗 Links
 [![GitHub](https://img.shields.io/badge/GitHub-100000?logo=github&logoColor=white)](https://github.com/ibukunoj-cyber)
-[![LinkedIn](https://www.linkedin.com/in/ibukun-ojediran-298a8b271utm_source=share_via&utm_content=profile&utm_medium=member_ios)
+[![LinkedIn](https://www.linkedin.com/in/ibukun-ojediran-298a8b271/)
 
 _"I can make it happen "_
